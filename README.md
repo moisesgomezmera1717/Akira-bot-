@@ -1,17 +1,17 @@
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">AkiraBot V3</span> 🤖💚
+✨🚀 <span style="color:#00FFAA;">AkiraBot V1</span> 🤖💚
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/fRMV1msv/images.jpg" width="300" alt="akiraBot V2" />
+  <img src="https://i.postimg.cc/fRMV1msv/images.jpg" width="300" alt="akiraBot V1" />
 </p>
 
 
 ---
 
-## 🧠 **¿Qué es AkiraBot V3?**
+## 🧠 **¿Qué es AkiraBot V1?**
 
-🔥 **AkiraBot V3** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
+🔥 **AkiraBot V1** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
 
 - 🚀 Compatible con la última versión de **Baileys**
 - 💬 Juegos RPG integrados
